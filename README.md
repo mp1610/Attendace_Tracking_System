@@ -1,6 +1,6 @@
 # Attendace_Tracking_System
 
-This project uses Python and SQL to pre-process attendace data, to develop a simple attendance tracking system for the senior tutor of a department. The tutor should be able to check whether students attend lectures, lab sessions and other activities of modules in the current semester.
+This project uses Python and SQL to pre-process attendance data, to develop a simple attendance tracking system for the senior tutor of a department. The tutor should be able to check whether students attend lectures, lab sessions and other activities of modules in the current semester.
 
 Firstly, python script (CW_Preporcessing) is written to clean the datasets and to create an SQLite database within which dataframes can be saved so they can be used in different ipynb files.
 
