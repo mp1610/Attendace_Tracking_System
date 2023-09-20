@@ -1,4 +1,4 @@
-# Attendace_Tracking_System
+# Attendance_Tracking_System
 
 This project uses Python and SQL to pre-process attendance data, to develop a simple attendance tracking system for the senior tutor of a department. The tutor should be able to check whether students attend lectures, lab sessions and other activities of modules in the current semester.
 
